@@ -1,0 +1,30 @@
+body {
+	background: #00ace6;
+}
+
+table {
+    border: 1px solid black;
+    margin: auto;
+}
+
+tr:first-child {
+	color: navy;
+	font-size: 18pt;
+}
+
+th {
+	border: 1px solid black;
+	padding: 0px 15px;
+}
+
+.container, .container2, .container3 {
+	border: 3px solid blue;
+	min-height: 35vh;
+}
+
+.message {
+	color: white;
+	padding-bottom: 3%;
+}
+
+
